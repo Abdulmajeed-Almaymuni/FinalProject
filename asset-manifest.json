@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abdulmajeed-Almaymuni/FinalProject/static/css/main.b2057988.chunk.css",
+    "main.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/main.3970dfa6.chunk.js",
+    "main.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/main.3970dfa6.chunk.js.map",
+    "runtime-main.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/runtime-main.35b813e9.js",
+    "runtime-main.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/runtime-main.35b813e9.js.map",
+    "static/js/2.4795c71b.chunk.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/2.4795c71b.chunk.js",
+    "static/js/2.4795c71b.chunk.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/2.4795c71b.chunk.js.map",
+    "static/js/3.9e078424.chunk.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/3.9e078424.chunk.js",
+    "static/js/3.9e078424.chunk.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/3.9e078424.chunk.js.map",
+    "index.html": "/Abdulmajeed-Almaymuni/FinalProject/index.html",
+    "static/css/main.b2057988.chunk.css.map": "/Abdulmajeed-Almaymuni/FinalProject/static/css/main.b2057988.chunk.css.map",
+    "static/js/2.4795c71b.chunk.js.LICENSE.txt": "/Abdulmajeed-Almaymuni/FinalProject/static/js/2.4795c71b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b813e9.js",
+    "static/js/2.4795c71b.chunk.js",
+    "static/css/main.b2057988.chunk.css",
+    "static/js/main.3970dfa6.chunk.js"
+  ]
+}
