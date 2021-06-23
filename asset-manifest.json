@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Abdulmajeed-Almaymuni/FinalProject/static/css/main.b2057988.chunk.css",
-    "main.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/main.3970dfa6.chunk.js",
-    "main.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/main.3970dfa6.chunk.js.map",
-    "runtime-main.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/runtime-main.35b813e9.js",
-    "runtime-main.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/runtime-main.35b813e9.js.map",
-    "static/js/2.4795c71b.chunk.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/2.4795c71b.chunk.js",
-    "static/js/2.4795c71b.chunk.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/2.4795c71b.chunk.js.map",
-    "static/js/3.9e078424.chunk.js": "/Abdulmajeed-Almaymuni/FinalProject/static/js/3.9e078424.chunk.js",
-    "static/js/3.9e078424.chunk.js.map": "/Abdulmajeed-Almaymuni/FinalProject/static/js/3.9e078424.chunk.js.map",
-    "index.html": "/Abdulmajeed-Almaymuni/FinalProject/index.html",
-    "static/css/main.b2057988.chunk.css.map": "/Abdulmajeed-Almaymuni/FinalProject/static/css/main.b2057988.chunk.css.map",
-    "static/js/2.4795c71b.chunk.js.LICENSE.txt": "/Abdulmajeed-Almaymuni/FinalProject/static/js/2.4795c71b.chunk.js.LICENSE.txt"
+    "main.css": "/FinalProject/static/css/main.b2057988.chunk.css",
+    "main.js": "/FinalProject/static/js/main.3970dfa6.chunk.js",
+    "main.js.map": "/FinalProject/static/js/main.3970dfa6.chunk.js.map",
+    "runtime-main.js": "/FinalProject/static/js/runtime-main.7478b61b.js",
+    "runtime-main.js.map": "/FinalProject/static/js/runtime-main.7478b61b.js.map",
+    "static/js/2.4795c71b.chunk.js": "/FinalProject/static/js/2.4795c71b.chunk.js",
+    "static/js/2.4795c71b.chunk.js.map": "/FinalProject/static/js/2.4795c71b.chunk.js.map",
+    "static/js/3.9e078424.chunk.js": "/FinalProject/static/js/3.9e078424.chunk.js",
+    "static/js/3.9e078424.chunk.js.map": "/FinalProject/static/js/3.9e078424.chunk.js.map",
+    "index.html": "/FinalProject/index.html",
+    "static/css/main.b2057988.chunk.css.map": "/FinalProject/static/css/main.b2057988.chunk.css.map",
+    "static/js/2.4795c71b.chunk.js.LICENSE.txt": "/FinalProject/static/js/2.4795c71b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35b813e9.js",
+    "static/js/runtime-main.7478b61b.js",
     "static/js/2.4795c71b.chunk.js",
     "static/css/main.b2057988.chunk.css",
     "static/js/main.3970dfa6.chunk.js"
